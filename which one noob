@@ -4,3 +4,6 @@ end
 if game.PlaceId == 6706152946 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Ruichaochen/Shrek-hub/main/Loader.update',true))()
 end
+if game.PlaceId == 5910449407 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/markzukember/Shrek-Hub/main/Shrek%20hub%20Project%20menancing"))()
+end
